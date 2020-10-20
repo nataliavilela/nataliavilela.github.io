@@ -1,4 +1,3 @@
-# nataliavilela.github.io
 <html>
 <head>
 	<meta charset="utf-8">
@@ -39,16 +38,17 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="#news">One page</a>
-  <a href="#contact">Another one</a>
-  <a href="#about">The last one</a>
+  <a href="#One page">One page</a>
+  <a href="#Another one">Another one</a>
+  <a href="#The last one">The last one</a>
 </div>
 
-<div style="padding-left:16px">
-  <h1>YEY! This is my first site!</h1>
+<h1>YEY! This is my first site</h1>
   <p>It’s not so easy to do, but I’m still learning</p>
+<div style="padding-left:16px">
+  
 </div>
 
 <body>
 </body>
-</html>
+
