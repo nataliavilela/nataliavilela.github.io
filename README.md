@@ -1,5 +1,4 @@
 # nataliavilela.github.io
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -46,12 +45,10 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>Top Navigation Example</h2>
-  <p>Some content..</p>
+  <h1>YEY! This is my first site!</h1>
+  <p>It’s not so easy to do, but I’m still learning</p>
 </div>
 
-</header>
 <body>
-	<h1>Yey, This is my first page</h1>
 </body>
 </html>
